@@ -42,7 +42,6 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 python-dateutil==2.8.1
 pytz==2020.1
-pywin32==300
 PyYAML==5.4.1
 pyzmq==20.0.0
 requests==2.26.0
