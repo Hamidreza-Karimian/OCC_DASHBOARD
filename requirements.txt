@@ -32,8 +32,6 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyterlab-widgets==1.0.0
 lxml==4.6.2
-mkl-random==1.0.2
-mkl-service==2.3.0
 mlxtend==0.18.0
 pandocfilters==1.4.2
 plotly==4.14.3
